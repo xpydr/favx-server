@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "FavX marketplace server",
   "main": "server.js",
-  "scripts": {},
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
