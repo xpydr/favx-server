@@ -2,11 +2,13 @@
   "name": "favx-server",
   "version": "1.0.0",
   "description": "FavX marketplace server",
-  "main": "index.js",
-  "scripts": {
-  },
+  "main": "server.js",
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "fastify": "^5.8.4"
+  }
 }
