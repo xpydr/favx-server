@@ -1,0 +1,12 @@
+{
+  "name": "favx-server",
+  "version": "1.0.0",
+  "description": "FavX marketplace server",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
